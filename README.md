@@ -2,7 +2,7 @@
 
 A web application that helps match and find similar products using visual recognition technology.
 
-![Visual Product Matcher](frontend/public/visual-matcher.png)
+![Visual Product Matcher](frontend/public/visualimage.jpg)
 
 ## Project Structure
 
